@@ -1,0 +1,201 @@
+﻿Employee ID,Employee Name,Age,Gender,Department,Job Role,Education Level,Marital Status,Location,Joining Date,Years at Company,Monthly Income,Performance Rating,Training Hours,Overtime Status,Work Mode,Job Satisfaction Score,Work-Life Balance Score,Promotion Last 2 Years,Absenteeism Rate,Attrition Status,Attrition Risk Level
+EMP0001,Aishwarya Bhat,27,Male,Operations,Operations Analyst,Doctorate,Married,Mumbai,2016-01-31,10,52500,4,21,Yes,Hybrid,3,3,No,3.5,No,Medium
+EMP0002,Meera Bose,33,Female,Customer Support,Support Team Lead,Master's,Single,Bengaluru,2025-04-08,1,36500,5,41,Yes,Office,2,3,No,5.9,No,Medium
+EMP0003,Priya Menon,39,Female,Marketing,Content Strategist,Bachelor's,Married,Pune,2023-01-19,3,63500,3,36,No,Office,2,3,Yes,0.6,No,Low
+EMP0004,Vikram Verma,32,Female,Operations,Team Leader,Bachelor's,Married,Hyderabad,2020-06-01,6,46500,3,13,No,Office,3,3,Yes,0.9,No,Low
+EMP0005,Abhinav Gupta,39,Male,Operations,Process Improvement Analyst,Bachelor's,Married,Chennai,2022-08-21,3,58000,3,33,Yes,Hybrid,1,4,No,4.4,Yes,Medium
+EMP0006,Divya Bose,24,Female,Customer Support,Support Team Lead,Master's,Married,Chennai,2023-10-14,3,36500,2,4,No,Remote,3,3,Yes,3.7,No,Low
+EMP0007,Mithun Joshi,35,Male,IT,Systems Administrator,Bachelor's,Married,Hyderabad,2022-03-25,4,58500,2,17,No,Office,1,3,No,1.1,No,Medium
+EMP0008,Aishwarya Bose,32,Male,Sales,Sales Manager,Master's,Single,Bengaluru,2022-09-19,2,46500,3,26,No,Hybrid,3,3,Yes,5.7,Yes,Low
+EMP0009,Nikhil Kapoor,22,Male,IT,Software Engineer,Master's,Married,Chennai,2022-07-31,4,87000,3,17,No,Hybrid,2,1,No,6.2,No,Medium
+EMP0010,Abhinav Rao,29,Female,Human Resources,Recruiter,Doctorate,Married,Mumbai,2020-01-01,6,61500,4,36,No,Hybrid,4,3,No,7.6,No,Low
+EMP0011,Lavanya Rao,46,Male,Finance,Finance Manager,Bachelor's,Married,Chennai,2017-01-22,9,81000,2,26,Yes,Office,4,4,No,4.3,No,Medium
+EMP0012,Lavanya Srinivasan,25,Female,Marketing,Digital Marketing Specialist,Master's,Single,Chennai,2023-03-23,3,51500,4,23,No,Remote,3,3,No,2.2,No,Low
+EMP0013,Shreya Nair,35,Female,Customer Support,Customer Support Associate,Master's,Married,Bengaluru,2021-11-07,4,40500,4,18,No,Office,1,2,No,1.6,No,Medium
+EMP0014,Akash Thomas,22,Female,Finance,Accountant,Master's,Married,Chennai,2017-09-20,5,60500,3,33,Yes,Office,3,2,No,1.9,Yes,Medium
+EMP0015,Aarav Mishra,36,Female,Sales,Sales Executive,Master's,Married,Chennai,2026-04-26,0,74000,3,33,No,Office,4,1,Yes,2.3,No,Medium
+EMP0016,Vikram Naidu,42,Female,Customer Support,Customer Support Associate,Diploma,Married,Pune,2017-10-04,9,42500,2,43,No,Hybrid,4,3,No,0.1,No,Low
+EMP0017,Pooja Rao,31,Female,IT,Data Analyst,Bachelor's,Single,Bengaluru,2023-06-22,3,101500,4,36,No,Hybrid,3,2,No,8.6,No,Low
+EMP0018,Priya Kapoor,34,Female,Operations,Team Leader,Bachelor's,Married,Pune,2025-07-25,1,42500,5,28,No,Office,1,4,Yes,7.5,No,Medium
+EMP0019,Ananya Dutta,34,Male,Human Resources,Training Specialist,Bachelor's,Single,Hyderabad,2015-02-02,11,44500,3,35,No,Hybrid,3,4,No,0.5,No,Low
+EMP0020,Anirudh Mishra,30,Male,IT,Data Analyst,Master's,Married,Chennai,2024-02-22,2,103500,3,19,Yes,Office,2,2,No,1.2,No,High
+EMP0021,Rahul Patel,43,Male,Customer Support,Support Team Lead,Diploma,Married,Hyderabad,2016-05-30,10,34500,4,21,No,Office,3,1,No,4.7,No,Medium
+EMP0022,Akash Kapoor,21,Male,IT,Software Engineer,Master's,Single,Delhi NCR,2015-04-11,7,75500,3,38,No,Office,1,4,Yes,1.9,Yes,Low
+EMP0023,Aarav Sharma,40,Male,Marketing,Brand Executive,Master's,Single,Pune,2017-09-28,9,74000,2,26,No,Office,4,3,No,1.2,No,Low
+EMP0024,Aditya Kumar,31,Male,Customer Support,Customer Success Specialist,High School,Married,Chennai,2022-01-11,1,31500,3,33,No,Remote,3,2,Yes,2.2,Yes,Low
+EMP0025,Lavanya Kapoor,24,Male,Operations,Operations Executive,Master's,Single,Bengaluru,2022-12-10,1,46500,3,28,No,Hybrid,1,2,Yes,3.4,Yes,Medium
+EMP0026,Lavanya Verma,26,Female,IT,Data Analyst,Bachelor's,Married,Hyderabad,2020-06-13,6,58500,4,31,No,Hybrid,3,3,No,13.3,No,Low
+EMP0027,Anirudh Naidu,38,Male,Sales,Account Manager,Bachelor's,Married,Bengaluru,2024-03-12,2,53500,3,39,Yes,Office,1,4,Yes,0.3,No,Medium
+EMP0028,Keerthi Jain,44,Female,Sales,Sales Manager,Bachelor's,Divorced,Delhi NCR,2016-05-17,4,60000,3,37,No,Hybrid,2,3,No,3.5,Yes,Low
+EMP0029,Shreya Dutta,27,Male,Customer Support,Quality Analyst,Diploma,Married,Bengaluru,2018-10-11,8,37500,3,9,No,Remote,3,3,Yes,4.3,No,Low
+EMP0030,Aishwarya Mishra,28,Female,Marketing,Marketing Analyst,Bachelor's,Married,Mumbai,2024-02-18,2,58500,4,55,Yes,Hybrid,3,3,No,2.5,No,Medium
+EMP0031,Nandini Nair,25,Male,Sales,Business Development Executive,Diploma,Married,Pune,2022-03-26,4,56000,5,17,Yes,Hybrid,2,2,Yes,2.5,No,Medium
+EMP0032,Divya Shetty,24,Male,Sales,Sales Manager,Master's,Divorced,Mumbai,2018-04-10,8,51000,3,47,No,Hybrid,4,2,No,0.8,No,Low
+EMP0033,Mithun George,31,Female,Human Resources,HR Business Partner,Master's,Married,Delhi NCR,2024-11-19,0,54500,3,37,No,Hybrid,3,4,Yes,3.7,Yes,Low
+EMP0034,Rahul Nair,36,Male,Operations,Operations Analyst,Master's,Married,Chennai,2024-12-13,0,56000,3,22,Yes,Hybrid,3,4,Yes,1.8,Yes,Medium
+EMP0035,Tanvi Shetty,52,Female,Sales,Account Manager,Bachelor's,Single,Pune,2024-12-16,1,67500,5,32,Yes,Office,3,3,No,4.2,No,Medium
+EMP0036,Diya Kulkarni,35,Male,Sales,Sales Manager,Diploma,Single,Chennai,2019-01-13,1,55000,3,17,Yes,Remote,3,3,No,2.0,Yes,Medium
+EMP0037,Anirudh Das,37,Male,Operations,Operations Analyst,Bachelor's,Single,Chennai,2021-10-16,5,50000,3,38,No,Hybrid,2,4,No,4.3,No,Low
+EMP0038,Kiran Fernandes,30,Male,Finance,Financial Analyst,Diploma,Married,Delhi NCR,2021-06-18,5,25000,2,13,No,Office,3,1,No,2.1,No,Medium
+EMP0039,Aditi Iyer,27,Female,Human Resources,Training Specialist,Bachelor's,Single,Bengaluru,2023-01-10,3,28000,1,3,No,Hybrid,1,2,No,4.4,No,Medium
+EMP0040,Zoya Rao,42,Female,Sales,Business Development Executive,Bachelor's,Single,Delhi NCR,2022-11-09,2,60500,2,27,Yes,Office,3,3,Yes,4.7,Yes,Medium
+EMP0041,Charan Chatterjee,42,Male,Marketing,Digital Marketing Specialist,High School,Married,Hyderabad,2020-04-06,6,83000,3,42,No,Hybrid,4,2,No,1.1,No,Low
+EMP0042,Arjun Nair,43,Female,IT,IT Support Specialist,High School,Single,Bengaluru,2019-05-29,0,109500,3,28,Yes,Remote,3,3,No,3.1,Yes,Medium
+EMP0043,Pranav Shetty,25,Female,Human Resources,HR Business Partner,Bachelor's,Single,Pune,2026-06-01,0,47500,2,30,No,Hybrid,3,3,Yes,0.3,No,Low
+EMP0044,Arjun Menon,41,Female,Sales,Sales Executive,Bachelor's,Married,Mumbai,2021-05-13,5,52500,3,31,No,Office,4,4,No,1.7,No,Low
+EMP0045,Gautham Singh,36,Female,Customer Support,Support Team Lead,Diploma,Married,Pune,2017-01-19,7,49500,3,0,Yes,Hybrid,3,4,No,3.6,Yes,Medium
+EMP0046,Abhinav Srinivasan,28,Female,Finance,Payroll Specialist,Master's,Single,Delhi NCR,2026-05-11,0,46000,3,40,No,Hybrid,4,3,No,1.9,Yes,Low
+EMP0047,Riya Krishnan,36,Female,Finance,Accountant,Master's,Single,Delhi NCR,2023-05-12,3,55000,3,21,Yes,Office,4,4,Yes,2.5,No,Low
+EMP0048,Kavya Reddy,34,Male,Human Resources,Training Specialist,Bachelor's,Single,Mumbai,2018-06-20,7,61000,2,20,No,Office,4,4,No,1.2,Yes,Low
+EMP0049,Aishwarya Rao,32,Male,Sales,Sales Manager,Bachelor's,Single,Bengaluru,2023-06-14,3,36000,2,26,No,Remote,4,2,No,0.9,No,Medium
+EMP0050,Aditya Joshi,30,Male,Marketing,Content Strategist,Bachelor's,Married,Chennai,2025-01-20,0,79000,4,29,Yes,Hybrid,2,4,No,3.6,Yes,Medium
+EMP0051,Ananya Kumar,42,Male,Finance,Payroll Specialist,Bachelor's,Single,Chennai,2025-01-19,1,59500,3,32,Yes,Office,4,3,No,0.4,No,Medium
+EMP0052,Aditi Srinivasan,29,Female,Marketing,Marketing Analyst,Bachelor's,Married,Mumbai,2024-07-05,2,49500,5,45,No,Office,3,3,Yes,2.7,No,Low
+EMP0053,Ishaan Chatterjee,38,Female,Operations,Operations Executive,Bachelor's,Married,Hyderabad,2015-11-02,10,40000,4,35,No,Office,3,2,No,2.0,No,Low
+EMP0054,Sneha Krishnan,47,Male,IT,Systems Administrator,Bachelor's,Married,Bengaluru,2023-05-03,3,95000,3,36,No,Office,3,3,No,1.9,Yes,Low
+EMP0055,Yash Das,44,Male,Marketing,Brand Executive,Bachelor's,Single,Chennai,2017-11-01,8,38000,3,24,Yes,Hybrid,2,3,No,0.2,No,Medium
+EMP0056,Aditya Das,42,Female,Operations,Team Leader,Bachelor's,Married,Hyderabad,2015-04-08,11,56000,3,19,No,Hybrid,4,4,No,1.2,No,Low
+EMP0057,Nikhil Jain,37,Male,Operations,Operations Analyst,Bachelor's,Married,Chennai,2023-10-08,3,47000,3,42,No,Office,2,2,No,1.5,No,Medium
+EMP0058,Sneha Bhat,44,Female,Operations,Team Leader,Bachelor's,Widowed,Chennai,2016-04-30,10,59500,5,39,Yes,Office,3,3,No,2.8,No,Medium
+EMP0059,Sneha Nair,23,Female,IT,IT Support Specialist,Bachelor's,Married,Hyderabad,2021-05-07,5,97500,4,45,No,Remote,4,3,Yes,4.2,No,Low
+EMP0060,Nandini Krishnan,39,Male,Marketing,Brand Executive,Bachelor's,Married,Pune,2019-10-16,7,61500,2,13,No,Office,4,2,No,3.7,No,Medium
+EMP0061,Tanvi Bhat,33,Male,Marketing,Marketing Analyst,Diploma,Married,Pune,2016-12-06,9,59000,4,30,No,Office,4,1,No,3.6,No,Medium
+EMP0062,Rohan Menon,30,Male,Human Resources,Training Specialist,Diploma,Single,Pune,2015-12-28,10,48000,3,46,No,Office,4,2,No,0.1,No,Low
+EMP0063,Sneha Thomas,32,Male,Sales,Sales Manager,Master's,Married,Chennai,2021-05-02,5,35000,3,19,Yes,Hybrid,3,3,Yes,3.0,No,Low
+EMP0064,Arjun Das,40,Male,Human Resources,Recruiter,Bachelor's,Married,Hyderabad,2015-01-05,10,80000,5,58,Yes,Office,4,3,No,0.8,Yes,Medium
+EMP0065,Aishwarya Pillai,31,Female,Finance,Financial Analyst,Master's,Single,Bengaluru,2017-10-22,0,26500,4,14,No,Remote,2,3,Yes,0.3,Yes,Low
+EMP0066,Diya Jain,34,Male,Sales,Sales Executive,High School,Married,Bengaluru,2026-06-17,0,60500,5,38,No,Hybrid,3,4,Yes,1.3,No,Low
+EMP0067,Ishaan Kumar,45,Male,Sales,Sales Manager,Bachelor's,Married,Hyderabad,2019-02-15,7,52500,3,32,No,Hybrid,4,3,No,1.4,No,Low
+EMP0068,Aditya Singh,46,Female,Operations,Process Improvement Analyst,Bachelor's,Married,Mumbai,2019-06-22,4,75000,4,27,Yes,Office,4,4,No,3.5,Yes,Medium
+EMP0069,Aditi Saxena,37,Female,Operations,Team Leader,Master's,Married,Bengaluru,2020-03-13,6,47000,3,23,No,Office,2,4,No,0.2,No,Low
+EMP0070,Aarav Reddy,29,Female,Sales,Business Development Executive,Master's,Single,Chennai,2019-06-25,7,47500,3,14,No,Office,3,4,No,4.8,No,Low
+EMP0071,Sai Mishra,47,Female,Sales,Account Manager,Bachelor's,Married,Chennai,2022-03-16,4,61500,3,37,No,Office,3,1,No,1.3,No,Medium
+EMP0072,Gautham Kumar,37,Non-binary,Human Resources,Recruiter,Bachelor's,Married,Hyderabad,2019-02-19,7,50000,5,45,No,Office,1,3,No,2.4,No,Medium
+EMP0073,Sanjana Kulkarni,36,Male,Finance,Payroll Specialist,Bachelor's,Divorced,Hyderabad,2023-02-20,3,46000,3,44,No,Office,1,4,No,6.4,No,Medium
+EMP0074,Riya Nair,37,Male,Finance,Payroll Specialist,Master's,Married,Hyderabad,2026-02-05,0,61500,3,43,No,Office,3,3,No,0.9,No,Low
+EMP0075,Yash Kumar,44,Female,Finance,Payroll Specialist,Bachelor's,Divorced,Chennai,2019-05-30,7,55500,2,33,No,Office,4,2,Yes,3.2,No,Low
+EMP0076,Vikram Bhat,31,Male,Marketing,Digital Marketing Specialist,Master's,Single,Chennai,2020-06-04,6,71500,3,30,No,Office,4,3,No,1.1,No,Low
+EMP0077,Kavya Bhat,39,Male,Finance,Finance Manager,Diploma,Married,Bengaluru,2015-05-13,11,44500,3,45,No,Office,4,3,No,2.3,No,Low
+EMP0078,Vikram Sharma,32,Female,Human Resources,Recruiter,Master's,Married,Mumbai,2025-05-21,1,44000,4,21,No,Hybrid,4,3,No,3.8,No,Low
+EMP0079,Sanjana Iyer,24,Female,Operations,Team Leader,Diploma,Single,Hyderabad,2016-04-21,10,45500,2,32,No,Office,2,2,No,2.9,No,Medium
+EMP0080,Manoj Jain,40,Female,Finance,Financial Analyst,Bachelor's,Single,Chennai,2023-02-17,2,50500,4,24,No,Hybrid,1,3,No,1.5,Yes,Medium
+EMP0081,Kavya Chatterjee,37,Female,Operations,Operations Analyst,Bachelor's,Single,Bengaluru,2018-08-10,8,53500,5,11,Yes,Hybrid,3,2,No,0.7,No,Medium
+EMP0082,Shreya Dutta,31,Female,Human Resources,HR Business Partner,Bachelor's,Married,Bengaluru,2015-03-08,11,31000,3,17,No,Hybrid,3,4,Yes,7.5,No,Low
+EMP0083,Ananya Pillai,33,Male,Customer Support,Support Team Lead,Bachelor's,Single,Chennai,2018-12-18,7,34500,4,40,Yes,Hybrid,1,4,No,4.8,No,Medium
+EMP0084,Nandini Patel,28,Male,Finance,Payroll Specialist,Doctorate,Single,Bengaluru,2018-03-05,1,39000,3,28,No,Hybrid,2,4,No,5.6,Yes,Medium
+EMP0085,Ishaan Naidu,38,Female,IT,IT Support Specialist,Master's,Single,Chennai,2016-12-26,9,93500,4,35,No,Remote,3,4,No,3.2,No,Low
+EMP0086,Diya Reddy,42,Female,Finance,Payroll Specialist,Diploma,Married,Chennai,2017-03-18,9,55500,3,34,No,Office,4,2,Yes,3.4,No,Low
+EMP0087,Pranav Bhat,39,Female,Customer Support,Customer Success Specialist,Master's,Married,Chennai,2021-01-05,5,48000,2,4,No,Hybrid,2,3,No,5.4,No,Medium
+EMP0088,Aditya George,38,Male,IT,IT Support Specialist,Diploma,Single,Bengaluru,2022-09-24,4,76500,3,25,No,Hybrid,3,4,No,0.5,No,Low
+EMP0089,Vikram Sharma,35,Non-binary,IT,IT Support Specialist,Bachelor's,Married,Delhi NCR,2017-07-21,9,83500,3,33,No,Remote,4,2,No,2.2,No,Low
+EMP0090,Aishwarya Gupta,29,Female,Finance,Finance Manager,Master's,Married,Bengaluru,2020-06-14,6,41000,5,17,No,Office,4,1,No,2.6,No,Medium
+EMP0091,Aditya Pillai,51,Female,Human Resources,Training Specialist,Master's,Married,Hyderabad,2019-04-10,7,55500,3,1,No,Remote,3,3,No,4.3,No,Low
+EMP0092,Manoj Kumar,30,Female,Finance,Payroll Specialist,Bachelor's,Single,Chennai,2019-05-17,7,56500,3,27,No,Hybrid,1,2,No,2.6,No,Medium
+EMP0093,Aditya Pillai,40,Female,Finance,Accountant,Master's,Single,Chennai,2023-09-07,3,54000,2,36,No,Hybrid,2,3,No,1.3,No,Medium
+EMP0094,Kavya George,42,Male,Operations,Team Leader,Bachelor's,Married,Chennai,2018-10-06,8,63500,3,17,No,Office,3,1,No,15.7,No,Medium
+EMP0095,Harini Joshi,35,Female,Sales,Sales Manager,Bachelor's,Divorced,Bengaluru,2026-01-09,0,63000,3,43,No,Remote,3,1,No,6.9,Yes,Medium
+EMP0096,Zoya Pillai,22,Female,IT,Software Engineer,Master's,Married,Chennai,2017-06-23,9,66000,3,29,Yes,Hybrid,4,2,No,2.6,No,Medium
+EMP0097,Anirudh Krishnan,21,Female,Finance,Payroll Specialist,Bachelor's,Married,Delhi NCR,2015-02-07,11,39500,3,36,No,Hybrid,3,4,No,5.0,No,Low
+EMP0098,Pooja Dutta,39,Female,IT,Systems Administrator,Bachelor's,Married,Bengaluru,2021-08-14,5,55500,2,9,No,Office,4,3,No,0.2,No,Low
+EMP0099,Divya Kumar,39,Female,Operations,Operations Analyst,Bachelor's,Single,Chennai,2025-08-12,1,67500,3,40,Yes,Hybrid,4,2,No,3.3,Yes,Medium
+EMP0100,Bhavya Dutta,31,Female,Finance,Payroll Specialist,Master's,Married,Delhi NCR,2022-08-03,4,74000,3,23,No,Office,2,3,No,2.9,No,Low
+EMP0101,Kavya Bose,35,Male,Operations,Operations Analyst,Bachelor's,Married,Chennai,2016-03-07,10,44500,3,41,Yes,Hybrid,2,3,No,4.2,No,Medium
+EMP0102,Vikram Saxena,34,Male,Customer Support,Customer Support Associate,Doctorate,Married,Chennai,2025-05-31,1,27000,3,15,No,Office,3,3,No,5.6,No,Low
+EMP0103,Keerthi Shetty,26,Male,Operations,Operations Analyst,Diploma,Single,Bengaluru,2019-03-30,7,37500,3,18,No,Remote,3,2,No,0.7,No,Low
+EMP0104,Divya George,31,Female,Operations,Process Improvement Analyst,High School,Married,Mumbai,2018-11-27,7,37500,4,28,Yes,Hybrid,2,4,No,1.6,No,Medium
+EMP0105,Meera Patel,32,Male,Human Resources,HR Business Partner,Diploma,Married,Bengaluru,2018-04-18,8,29500,3,31,No,Hybrid,2,1,No,8.8,No,Medium
+EMP0106,Nandini Fernandes,34,Male,Sales,Sales Executive,Bachelor's,Single,Bengaluru,2015-04-02,11,59000,3,32,Yes,Hybrid,4,4,Yes,2.4,No,Low
+EMP0107,Manoj Iyer,29,Male,Finance,Payroll Specialist,Doctorate,Single,Bengaluru,2018-11-13,7,57500,3,28,No,Office,2,3,No,1.4,No,Low
+EMP0108,Manoj Shetty,28,Female,Sales,Sales Manager,Bachelor's,Single,Pune,2024-11-18,1,52000,3,37,No,Office,3,4,Yes,1.8,No,Low
+EMP0109,Rahul Rao,40,Female,Operations,Operations Executive,Bachelor's,Married,Hyderabad,2020-05-12,6,83000,3,32,Yes,Office,4,3,Yes,4.1,No,Low
+EMP0110,Arjun Mishra,26,Non-binary,IT,IT Support Specialist,Bachelor's,Married,Chennai,2016-11-14,9,36500,1,19,No,Office,1,4,Yes,2.8,No,Medium
+EMP0111,Rohan Singh,21,Female,Human Resources,HR Business Partner,Bachelor's,Married,Delhi NCR,2015-04-16,11,51500,4,33,No,Hybrid,3,3,No,4.9,No,Low
+EMP0112,Nandini Das,28,Female,Customer Support,Support Team Lead,Diploma,Married,Chennai,2023-11-08,2,35500,2,31,No,Office,4,3,No,5.2,No,Medium
+EMP0113,Tanvi Pillai,34,Female,Customer Support,Quality Analyst,Bachelor's,Married,Bengaluru,2019-11-24,6,47000,3,29,Yes,Office,3,2,No,11.7,No,Medium
+EMP0114,Bhavya Jain,32,Male,Finance,Financial Analyst,Bachelor's,Single,Delhi NCR,2024-05-28,1,53000,3,30,Yes,Hybrid,3,4,Yes,2.5,Yes,Medium
+EMP0115,Lavanya Rao,38,Female,Sales,Business Development Executive,Master's,Married,Chennai,2023-03-13,3,94500,5,13,No,Office,3,4,No,1.3,No,Low
+EMP0116,Akash Srinivasan,32,Female,Customer Support,Support Team Lead,Bachelor's,Married,Chennai,2021-10-17,5,42500,5,33,No,Hybrid,2,3,Yes,1.7,No,Low
+EMP0117,Aditi Chatterjee,27,Female,Finance,Accountant,Bachelor's,Single,Chennai,2018-07-14,5,67500,3,24,No,Hybrid,3,3,No,1.8,Yes,Low
+EMP0118,Keerthi Pillai,40,Non-binary,IT,Software Engineer,Bachelor's,Single,Mumbai,2016-01-25,10,71000,3,15,No,Hybrid,3,4,No,3.2,No,Low
+EMP0119,Arjun Jain,36,Female,Finance,Payroll Specialist,Master's,Single,Chennai,2018-11-24,7,47500,5,45,No,Hybrid,4,2,No,3.9,No,Low
+EMP0120,Charan Iyer,34,Male,Customer Support,Support Team Lead,Bachelor's,Married,Bengaluru,2023-09-12,3,35000,4,33,No,Remote,3,3,No,2.2,No,Low
+EMP0121,Kiran Kumar,33,Male,Customer Support,Quality Analyst,High School,Married,Chennai,2015-05-17,11,47500,3,28,Yes,Hybrid,4,2,Yes,5.9,No,Medium
+EMP0122,Aishwarya Srinivasan,39,Female,Sales,Sales Manager,Diploma,Single,Mumbai,2015-10-18,11,57000,4,25,Yes,Office,3,1,No,2.1,No,Medium
+EMP0123,Nandini Pillai,31,Male,Sales,Business Development Executive,Diploma,Married,Chennai,2026-05-16,0,78000,3,25,No,Office,4,3,No,3.7,No,Low
+EMP0124,Nandini Rao,21,Female,Marketing,Digital Marketing Specialist,Diploma,Married,Pune,2021-12-03,4,60500,4,44,Yes,Remote,2,1,Yes,5.9,No,Medium
+EMP0125,Shreya Krishnan,33,Male,Customer Support,Quality Analyst,Diploma,Single,Hyderabad,2017-12-17,8,41500,4,35,No,Office,4,4,No,6.3,No,Low
+EMP0126,Abhinav George,32,Male,Sales,Account Manager,Bachelor's,Married,Chennai,2016-03-26,10,23000,2,31,No,Remote,2,2,No,1.4,No,Medium
+EMP0127,Aditya Fernandes,40,Male,IT,Systems Administrator,Master's,Married,Hyderabad,2023-01-06,3,69500,3,14,No,Hybrid,4,4,Yes,1.8,No,Low
+EMP0128,Nandini Verma,31,Male,Operations,Operations Executive,Bachelor's,Married,Hyderabad,2024-02-01,2,66500,4,11,Yes,Office,2,3,No,0.6,No,Medium
+EMP0129,Mithun Verma,30,Female,Marketing,Digital Marketing Specialist,Bachelor's,Single,Chennai,2023-04-26,3,36000,3,40,Yes,Office,2,3,No,1.0,No,Medium
+EMP0130,Sai Fernandes,27,Female,Human Resources,Training Specialist,Master's,Married,Hyderabad,2025-08-12,1,57000,4,25,Yes,Remote,4,3,Yes,1.9,No,Medium
+EMP0131,Aditya Shetty,35,Female,IT,Systems Administrator,Diploma,Single,Pune,2016-05-16,10,92500,3,28,Yes,Hybrid,2,3,Yes,1.8,No,Medium
+EMP0132,Aditi Dutta,28,Male,Operations,Team Leader,Master's,Single,Delhi NCR,2022-05-08,4,54500,3,45,No,Hybrid,4,3,Yes,2.6,No,Low
+EMP0133,Charan Das,29,Male,Sales,Sales Executive,Master's,Single,Mumbai,2022-05-27,3,69000,3,32,Yes,Hybrid,2,3,Yes,5.1,Yes,Medium
+EMP0134,Aishwarya Joshi,40,Female,Sales,Sales Manager,Master's,Married,Hyderabad,2016-10-27,9,75000,1,30,No,Hybrid,4,2,No,2.5,No,Medium
+EMP0135,Charan Menon,42,Female,Operations,Operations Analyst,Master's,Married,Chennai,2024-05-28,0,56500,5,43,No,Office,1,3,No,2.5,Yes,Medium
+EMP0136,Sneha Bose,22,Male,IT,Data Analyst,Master's,Married,Mumbai,2025-03-12,1,76000,4,47,Yes,Remote,3,2,No,8.3,No,Medium
+EMP0137,Ananya Pillai,37,Female,IT,IT Support Specialist,Diploma,Married,Pune,2017-10-10,9,65500,3,40,No,Hybrid,3,3,No,2.5,No,Low
+EMP0138,Kiran Gupta,35,Male,Marketing,Digital Marketing Specialist,Master's,Widowed,Bengaluru,2022-08-22,4,69500,3,21,No,Hybrid,4,3,No,7.1,No,Low
+EMP0139,Anirudh Rao,28,Male,Customer Support,Customer Success Specialist,Bachelor's,Married,Hyderabad,2015-10-22,10,28500,3,48,No,Hybrid,3,3,No,1.4,No,Low
+EMP0140,Kiran Patel,30,Female,Operations,Operations Executive,Master's,Single,Bengaluru,2017-09-29,9,62000,4,27,No,Office,3,4,No,2.2,No,Low
+EMP0141,Gautham Shetty,33,Male,Operations,Operations Analyst,Master's,Single,Chennai,2020-05-20,6,38000,2,25,No,Remote,4,2,Yes,1.6,No,Low
+EMP0142,Vikram Shetty,37,Female,IT,Data Analyst,Master's,Married,Chennai,2016-12-06,9,74500,3,34,No,Office,4,1,No,3.2,No,Medium
+EMP0143,Aishwarya Verma,22,Male,Finance,Financial Analyst,Bachelor's,Married,Chennai,2023-10-17,3,40500,4,30,Yes,Hybrid,3,1,Yes,2.9,No,Medium
+EMP0144,Zoya Srinivasan,35,Male,Customer Support,Customer Success Specialist,Bachelor's,Single,Delhi NCR,2016-02-27,10,39000,3,36,No,Hybrid,3,4,No,2.5,No,Low
+EMP0145,Anirudh Shetty,35,Female,Human Resources,Training Specialist,Bachelor's,Single,Chennai,2016-03-09,10,38000,3,14,No,Hybrid,3,3,No,0.7,No,Low
+EMP0146,Zoya Bose,31,Male,Operations,Operations Executive,Bachelor's,Single,Hyderabad,2026-06-23,0,46000,3,37,Yes,Office,2,3,No,3.6,No,Medium
+EMP0147,Vikram Gupta,42,Female,Customer Support,Quality Analyst,Master's,Single,Delhi NCR,2018-04-23,8,60000,4,41,No,Hybrid,3,3,Yes,4.7,No,Low
+EMP0148,Rahul Thomas,33,Female,IT,IT Support Specialist,Master's,Married,Bengaluru,2015-07-11,11,77500,2,24,Yes,Hybrid,2,3,Yes,1.6,No,Medium
+EMP0149,Zoya Kulkarni,28,Male,IT,Software Engineer,Bachelor's,Married,Hyderabad,2023-08-06,1,62000,3,29,Yes,Hybrid,1,3,Yes,8.5,Yes,Medium
+EMP0150,Kavya Dutta,30,Female,IT,Software Engineer,Bachelor's,Single,Chennai,2017-03-28,9,55500,1,22,No,Remote,2,3,Yes,2.4,No,Low
+EMP0151,Aishwarya Thomas,51,Female,Customer Support,Customer Success Specialist,Bachelor's,Married,Bengaluru,2016-06-06,4,56500,4,40,No,Remote,2,4,No,1.4,Yes,Low
+EMP0152,Vikram Kapoor,40,Female,Finance,Payroll Specialist,Master's,Single,Mumbai,2017-10-22,8,68000,2,16,No,Hybrid,1,2,No,16.5,No,Medium
+EMP0153,Bhavya Menon,45,Male,Operations,Process Improvement Analyst,Bachelor's,Single,Chennai,2020-06-04,6,60000,3,39,Yes,Office,4,2,No,4.6,No,Medium
+EMP0154,Lavanya Patel,38,Female,Customer Support,Quality Analyst,Bachelor's,Single,Chennai,2020-12-14,5,39500,2,15,Yes,Hybrid,4,4,No,4.8,No,Medium
+EMP0155,Pooja Kumar,30,Male,Finance,Accountant,Bachelor's,Married,Hyderabad,2025-09-12,1,75500,3,50,No,Office,3,4,No,1.0,No,Low
+EMP0156,Lavanya Patel,25,Male,Marketing,Digital Marketing Specialist,Bachelor's,Married,Bengaluru,2018-07-23,8,20500,4,10,No,Hybrid,2,4,Yes,7.1,No,Low
+EMP0157,Zoya Nair,43,Male,IT,Data Analyst,Master's,Married,Chennai,2025-03-23,0,43500,3,2,No,Office,4,1,No,2.0,Yes,Medium
+EMP0158,Kiran Jain,25,Female,Operations,Process Improvement Analyst,High School,Single,Chennai,2016-09-21,10,40000,4,32,No,Office,3,1,Yes,4.4,No,Low
+EMP0159,Pooja Kumar,33,Male,Finance,Accountant,Master's,Single,Hyderabad,2015-04-18,11,75000,3,36,No,Office,3,3,Yes,8.0,No,Low
+EMP0160,Pranav Reddy,29,Female,Operations,Operations Executive,Bachelor's,Single,Delhi NCR,2015-10-18,11,43500,3,37,No,Hybrid,4,4,No,11.8,No,Low
+EMP0161,Sai Fernandes,41,Female,IT,Systems Administrator,Bachelor's,Divorced,Pune,2016-12-13,9,83000,2,34,No,Office,4,3,Yes,0.6,No,Low
+EMP0162,Abhinav Gupta,38,Female,Operations,Team Leader,Diploma,Divorced,Chennai,2022-10-30,3,52000,2,21,No,Hybrid,3,3,No,3.8,No,Low
+EMP0163,Kiran Bhat,41,Female,Sales,Account Manager,Diploma,Married,Delhi NCR,2016-06-06,4,63500,4,28,No,Hybrid,1,1,No,3.6,Yes,Medium
+EMP0164,Sneha George,28,Male,Operations,Operations Analyst,Master's,Married,Chennai,2023-06-14,3,48000,3,22,Yes,Office,3,3,Yes,1.7,No,Low
+EMP0165,Akash Saxena,35,Male,Sales,Sales Executive,Diploma,Single,Chennai,2022-12-10,3,54500,5,43,No,Hybrid,4,3,No,5.7,No,Low
+EMP0166,Charan Saxena,35,Male,Finance,Financial Analyst,Diploma,Married,Pune,2015-08-31,6,63500,3,30,Yes,Hybrid,2,2,Yes,4.4,Yes,Medium
+EMP0167,Lavanya Kapoor,37,Male,Operations,Process Improvement Analyst,Master's,Married,Chennai,2017-09-07,0,52000,4,67,Yes,Hybrid,1,3,No,2.2,Yes,High
+EMP0168,Shreya Gupta,40,Male,Operations,Operations Analyst,Master's,Married,Chennai,2016-08-06,10,46500,3,27,No,Office,3,3,Yes,4.0,No,Low
+EMP0169,Keerthi Das,36,Male,Customer Support,Quality Analyst,Diploma,Married,Bengaluru,2018-06-13,8,45000,3,33,No,Office,4,3,No,1.0,No,Low
+EMP0170,Kiran Kapoor,39,Female,Operations,Operations Executive,Bachelor's,Single,Chennai,2015-10-29,10,55500,5,46,Yes,Hybrid,4,4,Yes,1.8,No,Low
+EMP0171,Rohan Kapoor,42,Female,Operations,Operations Executive,Bachelor's,Single,Chennai,2015-05-22,11,41000,3,42,No,Office,3,3,Yes,11.1,No,Low
+EMP0172,Rahul Kulkarni,22,Female,Human Resources,HR Analyst,Bachelor's,Single,Delhi NCR,2025-11-01,0,52000,3,22,No,Office,1,1,Yes,5.0,Yes,Medium
+EMP0173,Varun Iyer,26,Female,Human Resources,Training Specialist,High School,Married,Mumbai,2018-07-30,8,33000,4,43,No,Hybrid,3,4,No,1.9,No,Low
+EMP0174,Sneha Singh,28,Male,Marketing,Brand Executive,Bachelor's,Single,Pune,2018-05-12,0,51500,4,29,Yes,Hybrid,1,3,No,1.9,Yes,High
+EMP0175,Priya Menon,29,Male,Sales,Account Manager,Master's,Married,Chennai,2017-01-18,9,57000,4,25,No,Hybrid,3,3,No,4.0,No,Low
+EMP0176,Priya Sharma,34,Female,Human Resources,HR Analyst,Master's,Married,Delhi NCR,2015-05-20,11,48000,4,39,No,Hybrid,4,3,Yes,2.3,No,Low
+EMP0177,Meera Rao,33,Male,Customer Support,Quality Analyst,High School,Single,Mumbai,2020-06-30,6,38500,4,31,Yes,Hybrid,4,3,No,2.6,No,Medium
+EMP0178,Divya George,32,Female,IT,Software Engineer,Bachelor's,Married,Mumbai,2023-03-25,3,88500,3,17,No,Office,4,3,No,2.8,No,Low
+EMP0179,Aditya Mishra,32,Non-binary,Finance,Finance Manager,High School,Married,Bengaluru,2020-02-05,6,55000,2,22,Yes,Office,3,2,Yes,3.4,No,Medium
+EMP0180,Nikhil Saxena,24,Male,Human Resources,Training Specialist,High School,Widowed,Mumbai,2018-05-26,8,51000,4,31,No,Office,1,4,No,1.7,No,Medium
+EMP0181,Lavanya Chatterjee,22,Female,IT,Data Analyst,Bachelor's,Married,Hyderabad,2022-12-03,3,47000,3,13,No,Hybrid,4,4,No,4.5,No,Low
+EMP0182,Sanjana Das,37,Male,Sales,Sales Manager,High School,Married,Hyderabad,2019-03-31,7,73000,4,31,No,Office,3,4,No,2.4,No,Low
+EMP0183,Ananya Kulkarni,37,Male,IT,Data Analyst,Master's,Married,Delhi NCR,2017-10-24,8,77500,3,51,No,Hybrid,4,3,Yes,9.7,No,Low
+EMP0184,Mithun George,42,Female,Marketing,Marketing Analyst,Bachelor's,Single,Chennai,2015-04-20,11,50500,3,25,Yes,Office,3,4,Yes,4.7,No,Low
+EMP0185,Sneha Patel,24,Male,Customer Support,Support Team Lead,Diploma,Married,Pune,2022-06-08,4,18000,3,25,No,Remote,3,2,No,6.0,No,Low
+EMP0186,Anirudh Naidu,41,Male,Marketing,Digital Marketing Specialist,Bachelor's,Married,Chennai,2017-01-25,9,60500,3,40,Yes,Hybrid,2,3,No,5.8,No,Medium
+EMP0187,Nandini Bose,43,Male,Marketing,Marketing Analyst,Bachelor's,Married,Mumbai,2019-06-20,7,64000,2,21,No,Remote,2,4,Yes,3.7,No,Low
+EMP0188,Meera George,29,Female,Finance,Financial Analyst,Bachelor's,Single,Chennai,2019-02-07,7,62000,4,37,No,Office,3,4,No,0.7,No,Low
+EMP0189,Gautham Mishra,28,Male,Sales,Account Manager,Master's,Married,Hyderabad,2016-08-23,2,62500,3,8,Yes,Office,4,3,No,5.2,Yes,Medium
+EMP0190,Keerthi Sharma,38,Female,Human Resources,HR Business Partner,Bachelor's,Married,Chennai,2023-09-09,3,61500,3,32,No,Office,2,2,No,2.5,Yes,Medium
+EMP0191,Abhinav Chatterjee,38,Female,IT,Systems Administrator,Bachelor's,Single,Bengaluru,2016-03-26,10,109000,4,53,No,Remote,3,2,No,3.7,No,Low
+EMP0192,Bhavya Sharma,30,Male,Finance,Financial Analyst,Diploma,Single,Delhi NCR,2021-12-19,4,64000,3,19,No,Hybrid,1,3,Yes,1.6,No,Low
+EMP0193,Charan Kulkarni,21,Male,Operations,Process Improvement Analyst,High School,Single,Bengaluru,2017-10-08,9,36500,5,49,No,Hybrid,3,4,No,4.3,No,Low
+EMP0194,Gautham Verma,33,Male,Marketing,Marketing Analyst,Bachelor's,Married,Mumbai,2024-10-30,1,75500,4,26,Yes,Hybrid,3,4,No,6.9,No,Medium
+EMP0195,Mithun Saxena,40,Female,Finance,Payroll Specialist,Master's,Married,Chennai,2016-04-14,10,40500,2,25,Yes,Hybrid,4,3,Yes,0.9,No,Medium
+EMP0196,Keerthi Gupta,38,Female,Customer Support,Support Team Lead,Bachelor's,Single,Chennai,2024-03-26,2,35500,4,34,No,Remote,3,3,No,0.8,No,Low
+EMP0197,Aditya Chatterjee,39,Male,Customer Support,Customer Success Specialist,Diploma,Married,Delhi NCR,2019-10-23,6,35500,3,34,No,Hybrid,4,4,Yes,2.2,No,Low
+EMP0198,Kavya Nair,32,Male,IT,IT Support Specialist,Bachelor's,Single,Chennai,2015-11-19,3,98000,4,42,Yes,Remote,1,2,No,2.4,Yes,High
+EMP0199,Keerthi Pillai,36,Female,IT,Software Engineer,Master's,Married,Hyderabad,2022-11-19,3,69000,3,7,No,Office,1,4,No,4.3,No,Medium
+EMP0200,Anirudh Chatterjee,40,Female,Operations,Process Improvement Analyst,Master's,Single,Mumbai,2015-06-17,11,57500,3,7,No,Hybrid,3,3,No,1.8,No,Low
